@@ -7,7 +7,7 @@ computer = 87
 hacked_computer = 1
 money = 100
 bitcoin = 1
-orgnitation = ["CIA","FBI","anonymous","WHO","DPRD","Python","Youtube"]
+orgnitation = ["CIA","FBI","anonymous","WHO","Python",]
 security_system = 100
 password = ("LOLXD")
 server = 1842
@@ -203,3 +203,7 @@ while True:
                     
     else:
         print("UNKOWN FILE!")
+
+
+
+
