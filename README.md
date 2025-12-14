@@ -1,2 +1,2 @@
 # project-1
-still alpha :)
+this file is stil on testing! :)
